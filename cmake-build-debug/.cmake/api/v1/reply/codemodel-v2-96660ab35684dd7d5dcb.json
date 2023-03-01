@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "machine_learning_algorithms_in_cpp",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "machine_learning_algorithms_in_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-machine_learning_algorithms_in_cpp-Debug-5b6da18844cf3e2018e3.json",
+					"name" : "machine_learning_algorithms_in_cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/sumukshashidhar/Documents/Gitstuff/machine-learning-algorithms-in-cpp/cmake-build-debug",
+		"source" : "/Users/sumukshashidhar/Documents/Gitstuff/machine-learning-algorithms-in-cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
